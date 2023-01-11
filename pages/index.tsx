@@ -10,8 +10,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Easybank</title>
-        <link rel="icon" href="/favicon-32x32.png" />
+        <title>Creta - Arquitetura e Engenharia</title>
+        <link rel="icon" href="/icone.png" />
       </Head>
       <Navbar />
       <div className="relative overflow-hidden">
