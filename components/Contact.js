@@ -14,7 +14,7 @@ const ContactForm = () => {
   return (
     <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-md">
        <div className="flex justify-center items-center">
-                <p className="text-gray-500 text-lg">Formulário de Contato</p>        
+            <h2 class="text-3xl font-bold mb-12 text-center text-gray-600">Fale com a gente</h2>      
         </div>
         
         <div className="mb-4">
