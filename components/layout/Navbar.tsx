@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const navItems = ['Home', 'Sobre nós', 'Contato'];
+const navItems = ['Home', 'Sobre nós', 'Projetos' ,'Contato' ];
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
